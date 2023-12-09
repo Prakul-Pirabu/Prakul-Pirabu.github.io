@@ -1,0 +1,98 @@
+body{
+    background: url("background.jpg") no-repeat fixed;
+    background-size: cover;
+    text-shadow: 2px 4px 4px rgba(0,0,0,1.0);
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+  }
+
+a:link{
+    color: white;
+    text-decoration: none;
+  }
+  
+a:visited{
+    color: white;
+    text-decoration: none;
+  }
+
+a:hover{
+    color: white;
+    padding: 10px 5px;
+    box-sizing: border-box;
+    background-color: grey;
+    text-decoration: none;
+  }
+
+/* All the code above except for the body styling is for link. For example, a:link is for a normal link, while a:visited is for a visited link, while a:hover is for a link that has the cursor hovering above it */
+
+.websitepages{
+    font-size: medium;
+}
+
+.articletext{
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    
+    margin-left: 20.6%;
+    margin-right: 20.6%;
+
+}
+
+a.contactdetails{
+    font-size: large;
+}
+
+#email{
+    text-decoration: underline;
+}
+
+#email:hover{
+    padding: 0px;
+    background-color: transparent;
+    color: grey;
+}
+
+h1.aboutquestion1{
+    font-size: xx-large;
+
+    margin-left: 20.6%;
+    margin-right: 20.6%;
+
+}
+
+h1.aboutquestion2{
+    font-size: xx-large;
+
+}
+
+#herelink{
+    text-decoration: underline;
+}
+
+#herelink:hover{
+    padding: 0px;
+    background-color: transparent;
+    color: grey;
+}
+
+
+
+#mainheader{
+    font-size: xx-large;
+    padding-bottom: 20px;
+}
+
+#text {
+    font-size: medium;
+}
+
+#date{
+    font-size: small;
+}
+
+.articles{
+    font-size: large;
+    text-decoration: underline;
+}
